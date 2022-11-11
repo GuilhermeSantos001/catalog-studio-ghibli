@@ -9,6 +9,9 @@
 [![Node.js version][nodejs-badge]][nodejs]
 [![GPLV3][license-badge]][license]
 
+## Help
+https://github.com/GuilhermeSantos001/catalog-studio-ghibli/wiki
+
 ## Project
 
 `Catalog Studio Ghibli` A simple project that aims to search for movies in [Studio Ghibli API](https://ghibliapi.herokuapp.com/#section/Helper-Libraries/Elixir).
