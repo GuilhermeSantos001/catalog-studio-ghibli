@@ -1,0 +1,13 @@
+{
+  "locale": {
+    "main": "pt_br",
+    "languages": [
+      "en",
+      "pt_br"
+    ],
+    "path": "locales"
+  },
+  "log": {
+    "path": "logs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "middlewares": {
+    "authorization": {
+      "exception": "API Key is invalid. Please check your API Key and try again."
+    }
+  },
+  "movies": {
+    "movie_already_exists": "Movie ($1) already exists!",
+    "movie_not_found": "Movie ($1) not found!"
+  }
+}
